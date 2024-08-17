@@ -1,0 +1,1 @@
+require("trio-caffeine").colorscheme()
